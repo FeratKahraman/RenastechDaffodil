@@ -1,7 +1,6 @@
-package code;
+package students.Ozgur;
 
-public class test {
-
+public class lab02 {
     public static void main(String[] args) {
 
     }
